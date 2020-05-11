@@ -1,2 +1,2 @@
 # Simple-Chatty-Bot
-A simple bot able for a small talk.
+A simple bot able to perform a quick talk.
